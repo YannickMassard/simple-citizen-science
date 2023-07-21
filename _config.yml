@@ -1,20 +1,20 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
-url: https://cvless.netlify.app
+title: Qualitätssicherung in Citizen Science Projekten
+description: Laura Zinser – Masterarbeit – August 2023
+taglong: 
+tagshort:
+url: 
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: 
 
 # author settings
 
 author:
-  name: Place Holder
-  email: username@domain.com
-photo: /assets/jpg/photo.jpg
+  name: Laura Zinser
+  email: 
+photo: /assets/jpg/jgu.png
 
 # build settings
 

@@ -1,5 +1,8 @@
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
 
+<!-- Blendet die _posts (sortiert nach Jahr) ein. Für diese Darstellung haben wir vermutlich keine Verwendung, ich lasse
+den Code aber mal drinnen. -->
+
 <div class="archive">
   {% for yearMonth in postsByYearMonth %}
   <h2>{{ yearMonth.name }}</h2>

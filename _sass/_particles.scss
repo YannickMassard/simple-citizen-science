@@ -29,13 +29,15 @@
   }
 }
 
-.particles-photo {
-  width: 50%;
+// JGU-Bild
+.particles-photo { 
+  width: 15%;
   border-radius: 50%;
   margin: auto;
   margin-bottom: 0.5em;
 }
 
+// Title
 .particles-title {
   margin: 0;
   font-size: 2.5em;
@@ -43,6 +45,7 @@
   white-space: nowrap;
 }
 
+// Subtitle
 .particles-subtitle {
   margin: 0 0 1em 0;
   font-size: 1.25em;
